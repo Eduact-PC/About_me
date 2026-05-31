@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm NEA NONN, a Computer Science student at RPITSSR 🎓 based in Cambodia 🇰🇭.
+I'm NEA NONN, a Computer Science student at RPITSSR  based in Cambodia 🇰🇭.
 I'm passionate about web development and currently building my skills through real hands-on projects. My experience so far comes from building static websites and frontend projects as part of my learning journey.
 
 - 🎓 Studying at Royal Polytechnic Institute of Techo Sen Siem Reap (RPITSSR)
