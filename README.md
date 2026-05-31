@@ -1,4 +1,3 @@
-
 # Hi there, I'm NONN (NEA NONN) 
 
 <p>
@@ -8,17 +7,18 @@
 
 
 ---
+
 ---
 
 ## 🚀 About Me
 
-I'm NEA NONN, a Computer Science student at RPITSSR  based in Cambodia 🇰🇭.
+I'm NEA NONN, a Computer Science student at RPITSSR 🎓 based in Cambodia 🇰🇭.
 I'm passionate about web development and currently building my skills through real hands-on projects. My experience so far comes from building static websites and frontend projects as part of my learning journey.
 
--🎓 Studying at Royal Polytechnic Institute of Techo Sen Siem Reap (RPITSSR)
--💻 Learning HTML, CSS, JavaScript, and React through hands-on static projects
--🌱 Expanding into backend development with Node.js, FastAPI & PostgreSQL
--🤝 Open to freelance work, internships, and collaborations
+- 🎓 Studying at Royal Polytechnic Institute of Techo Sen Siem Reap (RPITSSR)
+- 💻 Learning HTML, CSS, JavaScript, and React through hands-on static projects
+- 🌱 Expanding into backend development with Node.js, FastAPI & PostgreSQL
+- 🤝 Open to freelance work, internships, and collaborations
 
 ---
 
@@ -47,6 +47,10 @@ I'm passionate about web development and currently building my skills through re
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
+
+## 📬 Reach Me
+
+
 
 ## 📊 GitHub Stats
 
